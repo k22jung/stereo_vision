@@ -187,10 +187,10 @@ int main(int argc, char** argv)
 	namedWindow("Filtered Disparity", WINDOW_AUTOSIZE);
 	imshow("Filtered Disparity", filtered_disp_vis);
 
-	imwrite( "../samples/disparity_filtered.jpg", filtered_disp_vis );
-	imwrite( "../samples/disparity_raw.jpg", raw_disp_vis);
-	imwrite("../samples/conf_map.jpg",conf_map);
-	imwrite("../samples/left_image.jpg",left);
+	imwrite( "../output/disparity_filtered.jpg", filtered_disp_vis );
+	imwrite( "../output/disparity_raw.jpg", raw_disp_vis);
+	imwrite("../output/conf_map.jpg",conf_map);
+	imwrite("../output/left_image.jpg",left);
 	waitKey(0);
 
 
