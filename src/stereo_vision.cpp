@@ -1,3 +1,10 @@
+/* Kenneth Jung
+ * Mechatronics Engineering
+ * kennyjung@rogers.com
+ *
+ * Original source taken from Github as a starting point for the code:
+ * https://github.com/opencv/opencv_contrib/blob/master/modules/ximgproc/samples/disparity_filtering.cpp
+*/
 #include "opencv2/calib3d.hpp"
 #include "opencv2/imgproc.hpp"
 #include "opencv2/imgcodecs.hpp"
@@ -11,7 +18,7 @@ using namespace cv;
 using namespace cv::ximgproc;
 using namespace std;
 
-const double DOWNSCALE = 0.5;
+const double DOWNSCALE = 0.25;
 const int WIN_SIZE_SGBM = 1;
 const int MAX_X_GRAD = 25;
 const double SMOOTHING_FACTOR = 4;
