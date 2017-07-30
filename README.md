@@ -11,7 +11,7 @@
 <img src="https://github.com/k22jung/stereo_vision/blob/master/output/left_image.jpg">
 </p>
 
-The original code that this project is based off of can be found [here](https://github.com/opencv/opencv_contrib/blob/master/modules/ximgproc/samples/disparity_filtering.cpp).
+The original code that this project is based off of can be found [here](https://github.com/opencv/opencv_contrib/blob/master/modules/ximgproc/samples/disparity_filtering.cpp). The original colored images are from the [KITTI Object Tracking Evaluation 2012](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) dataset.
  
 
 ## Dependencies
