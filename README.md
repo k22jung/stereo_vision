@@ -1,6 +1,6 @@
 # Stereo Vision
 
-**Stereo Vision** is a small tool for stereo vision and generating a disparity map to detect nearby objects, such as pedistrians and vehicles. The algorithms used are SGBM (Semi Global Block Matching) and the WLS (Weighted Least Squares) Filter. It works for a single pair of frames captured by stereo cameras.
+**Stereo Vision** is a tool for stereo vision and generating a disparity map to detect nearby objects, such as pedistrians and vehicles. The algorithms used are SGBM (Semi Global Block Matching) and the WLS (Weighted Least Squares) Filter. It works for a single pair of frames captured by stereo cameras.
 
 
 
