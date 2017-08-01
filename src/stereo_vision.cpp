@@ -1,6 +1,6 @@
 /* Kenneth Jung
  * Mechatronics Engineering
- * kennyjung@rogers.com
+ * k22jung@edu.uwaterloo.ca
  *
  * Original source taken from Github as a starting point for the code:
  * https://github.com/opencv/opencv_contrib/blob/master/modules/ximgproc/samples/disparity_filtering.cpp
